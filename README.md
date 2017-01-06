@@ -29,7 +29,7 @@ You will find your API key under the field API Token, copy it in a safe place an
 
 ## Configuration
 
-The NorrisBot is configurable through environment variables. There are several variable available:
+Dumbledore is configurable through environment variables. There are several variable available:
 
 | Environment variable | Description |
 |----------------------|-------------|
