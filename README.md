@@ -2,9 +2,9 @@
 A Slack Bot called Dumbledore that lets your team join houses and award house points.
 
 ## Installation 
-clone this reposity to the machine you want to run the server on.
-If you do not have node `>= 6.3.0` and npm installed on your machine install
-in the dumbledore directory run:
+* clone this reposity to the machine you want to run the server on.
+* If you do not have node `>= 6.3.0` and npm installed on your machine install it
+* in the dumbledore directory run:
 
 ```bash
 $ npm install 
